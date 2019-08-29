@@ -1,3 +1,11 @@
+## Playing around after meetup in London (https://www.meetup.com/JavaScript-in-London/events/263860886/)
+
+Playing around (repeating the live coding steps ) after a talk by https://github.com/nicholas-johnson . Amazing, dynamic talk.
+
+Give him a star for his npm module which is used in this project. https://github.com/nicholas-johnson/lowloader
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
