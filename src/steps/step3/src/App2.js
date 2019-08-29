@@ -1,17 +1,17 @@
 import React, { useState } from "react";
 
-function App() {
-  const [count, setCount] = useState(1);
+function App2() {
+  const [count, setCount] = useState(2);
   return (
     <div
       onClick={() => {
         setCount(count + 1);
       }}
-      className="App"
+      className="App2"
     >
       App {count}
     </div>
   );
 }
 
-export default App;
+export default App2;
